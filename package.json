@@ -1,0 +1,14 @@
+{
+  "name": "is-odd-react",
+  "version": "1.0.0",
+  "description": "A simple React utility to check if a number is odd. Returns true if the number is odd, false otherwise. Ideal for quick validation in React projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "odd"
+  ],
+  "author": "Felix Gozali",
+  "license": "ISC"
+}
