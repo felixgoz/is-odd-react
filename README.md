@@ -6,6 +6,9 @@ npm install is-odd-react
 
 ## Usage
 
-const isOddReact = require("is-odd-react");
+```javascript
+import isOdd from "is-odd-react";
 
-console.log(isOddReact(1)); //=> true
+console.log(isOdd(1)); // true
+console.log(isOdd(2)); // false
+```
