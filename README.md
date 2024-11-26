@@ -1,14 +1,16 @@
-## Install
+## Instaww~ 🥺👉👈
 
-Install with [npm](https://www.npmjs.com/):
+Instaww with [npm](https://www.npmjs.com/): uwu~
 
-npm install is-odd-react
+```bash
+npm instaww is-odd-weact
+```
 
-## Usage
+## Usage~! ✨
 
 ```javascript
-import isOdd from "is-odd-react";
+impowt isOdd fwom "is-odd-weact"; // nya~ 🐾
 
-console.log(isOdd(1)); // true
-console.log(isOdd(2)); // false
+consowe.wog(isOdd(1)); // twue uwu~
+consowe.wog(isOdd(2)); // fawse owo~
 ```
